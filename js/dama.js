@@ -4,6 +4,7 @@
 //  mangia pedina multiplo da sviluppare
 //  pedina in dama
 //  sistema di calcolo del vincitore
+//
 
 $(function() {
     let numberOfLine = 8;
