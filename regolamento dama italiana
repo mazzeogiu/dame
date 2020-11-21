@@ -1,30 +1,34 @@
-La damiera si compone di 64 caselle alternate per colore, bianche e scure, e va posizionata con l'ultima casella in basso a destra di colore nero.
+The board is made up of 64 boxes alternating in color, white and dark, and must be positioned with the last box at the bottom right in black.
+Each player has at the beginning 12 pieces, of a different color from those of the opponent (white or black), placed on the first three rows of dark squares 
+placed on their side of the board. Black occupies the squares from no. 1 to n. 12, white those from n. 21 to no. 32. The choice of color among the players is done by drawing lots.
 
-Ciascun giocatore dispone all'inizio di 12 pedine, di colore diverso da quelle dell'avversario (bianche o nere), collocate sulle prime tre righe di caselle scure poste sul proprio lato della damiera. Il nero occupa le caselle dal n. 1 al n. 12, il bianco quelle dal n. 21 al n. 32. La scelta del colore fra i giocatori si effettua per sorteggio.
+Always start playing white.
 
-Inizia a giocare sempre il bianco.
+The pawn always moves diagonally across the dark squares one square at a time and only forward. When a pawn reaches one of the squares of the last row it is promoted, 
+it becomes queen and must be marked with the overlap of another pawn taken from those not in play.
 
-La pedina si muove sempre in diagonale sulle caselle scure di una casella alla volta e soltanto in avanti. Quando una pedina raggiunge una delle caselle dell'ultima riga viene promossa, diventa dama e deve essere contraddistinta con la sovrapposizione di un'altra pedina prelevata tra quelle non in gioco.
+Each pawn can eat those opponents that are forward, on the diagonal square next to their own and that have the next free square. After the catch, if they meet diagonally 
+other pawns with the next free square, they must continue to eat without removing the hand from the pawn itself. In this case the socket is called multiple. 
+The pieces taken must be removed from the board.
 
-Ogni pedina può mangiare quelle avversarie che si trovano in avanti, sulla casella diagonale accanto alla propria e che abbiano la casella successiva libera. Dopo la presa, se incontrano in diagonale altre pedine con la successiva casella libera, si deve continuare a mangiare senza togliere la mano dalla pedina stessa. In tal caso la presa si chiama multipla. Le pedine prese vanno tolte dalla damiera.
+The queen also moves one square at a time, always diagonally, in all possible directions, eating both the pieces and the opposing queen.
+In case of taking it is mandatory to eat the pieces. The ancient rule of the "breath", that is to capture the opponent's piece which, despite having the right, 
+by distraction or by choice had not eaten, was abolished by the Dame Federation in 1934.
 
-La dama si muove anch'essa di una casella alla volta, sempre in diagonale, in tutte le direzioni possibili, mangiando sia le pedine che le dame avversarie.
+Having more possibilities of taking the following priorities must be respected in order:
+it is mandatory to eat where there are more pieces;
 
-In caso di presa è obbligatorio mangiare i pezzi. L'antica regola del "soffio", ossia quella di catturare il pezzo avversario che pur avendone diritto, per distrazione o per scelta non aveva mangiato, è stata abolita dalla Federazione Dama nel 1934.
+if the number of pieces to be taken is equal, between pawn and checker one is obliged to eat the checker; moreover, if you can choose between eating as a checker or a pawn, 
+it is mandatory to eat with the checker;
 
-Avendo più possibilità di presa si debbono rispettare obbligatoriamente nell'ordine le seguenti priorità:
+the lady chooses the outlet where more ladies are eaten;
 
-è obbligatorio mangiare dove ci sono più pezzi;
+other things being equal, you eat where you first meet the opponent's checkers.
 
-a parità di pezzi da prendere, tra pedina e dama si è obbligati a mangiare la dama; inoltre se si può optare tra il mangiare di dama o di pedina è obbligatorio mangiare con la dama;
+"Piece touched = Piece moved": the player who, in his turn to play, touches one of his pieces on the board is obliged to move it.
+If you want to fix a badly placed piece on the board you must first warn the opponent by declaring "accommodating" or "acconcio" and wait for the opponent's consent.
 
-la dama sceglie la presa dove si mangiano più dame;
+You win by abandoning the opponent, who is in obvious difficulty, or when you capture or block all the opponent's pieces.
 
-a parità  di condizioni si mangia dove s'incontra prima la dama avversaria.
-
-"Pezzo toccato = Pezzo mosso": il giocatore che, nel proprio turno di gioco, tocca un proprio pezzo sulla damiera è obbligato a muoverlo.
-Se si vuole aggiustare un pezzo messo male sulla damiera bisogna prima avvertire l'avversario dichiarando "accomodo" o "acconcio" e attendere l'assenso dell'avversario.
-
-Si vince per abbandono dell'avversario, che si trova in palese difficoltà, o quando si catturano o si bloccano tutti i pezzi avversari.
-
-Si pareggia in una situazione di evidente equilibrio finale per accordo dei giocatori o per decisione dell'arbitro a seguito del conteggio di 40 mosse richiesto da uno dei due giocatori. Il conteggio delle mosse si azzera e riparte da capo tutte le volte che uno dei due giocatori muove una pedina o effettua una presa.
+There is a tie in a situation of evident final balance by agreement of the players or by decision of the referee following the count of 40 moves requested by one of the two players. 
+The count of the moves resets and restarts every time one of the two players moves a checker or makes a trick.

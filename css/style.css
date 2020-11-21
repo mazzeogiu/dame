@@ -1,13 +1,25 @@
-body{
+body {
     background-color: #cccccc;
 }
 h1{
     text-align: center;
 }
-.container{
+.container {
     margin: auto;
-    max-width: 850px;
+    max-width: 1000px;
 }
+.play-ground {
+    display: flex;
+    flex-direction: row-reverse;
+}
+.info {
+    margin-left: 2em;
+}
+.info li {
+    list-style: none;
+    padding: 0em;
+}
+
 #table {
     border: 5px solid black;
     background-color: black;
